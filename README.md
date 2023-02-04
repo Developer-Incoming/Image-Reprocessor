@@ -10,7 +10,7 @@
  #### Speed?
   - Processed 2 4500x2500 images in less than a second.
  #### Transparent images?
-  - Yessir (Check line 14).
+  - Yessir, [Check line 14](https://github.com/Developer-Incoming/Image-Reprocessor/blob/main/main.py#LC14).
  #### There's a lot of data in each image.
   - literally a 16.4mb image has been reprocessed into a about 15.4mb image, I was so surprised yet scared.
   - The amount of traces is tremendous, we need more knowledge about that.
