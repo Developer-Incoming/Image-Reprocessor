@@ -1,7 +1,5 @@
 from sys import argv
 from os import listdir
-import colorama
-colorama.init()
 
 from PIL import Image
 from numpy import ndarray, uint8
@@ -26,7 +24,7 @@ print('''
   | || '_ ` _ \ / _  |/ _  |/ _ \  __| | |_) / _ \  _ \|  __/ _ \ / __/ _ \/ __/ __|/ _ \|  __|
   | || | | | | | (_| | (_| |  __/ |    |  _ <  __/ |_) | | | (_) | (_|  __/\__ \__ \ (_) | |   
  |___|_| |_| |_|\__,_|\__, |\___|_|    |_| \_\___|  __/|_|  \___/ \___\___||___/___/\___/|_|   
-                      |___/                      |_|                                           
+                      |___/                      |_|                Pro Max Plus 6G XDR OLED 8K
 ''')
 
 input("Press enter to process the folder:\n" + inputs + "\n\nand output its outputs into the folder:\n" + outputs + "\n")
