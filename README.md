@@ -16,7 +16,7 @@
   - The amount of traces is tremendous, we need more knowledge about that.
  
  #### Example 1:
-  - ![Example 1.1](https://github.com/Developer-Incoming/Image-Reprocessor/blob/main/outputs/test9%20Data.png?raw=true)
+  - ![Example 1.1](https://github.com/Developer-Incoming/Image-Reprocessor/blob/main/outputs/Processed%20test9%20Data.png?raw=true)
     - Example 1.1 showing the original file's bytes, which are 149 bytes.
-  - ![Example 1.2](https://github.com/Developer-Incoming/Image-Reprocessor/blob/main/outputs/Processed%20test9%20Data.png?raw=true)
-    - Example 1.2 showing the reprocessed file that lost 51 bytes out of 149 bytes of its original bytes, crazy isn't?
+  - ![Example 1.2](https://github.com/Developer-Incoming/Image-Reprocessor/blob/main/outputs/test9%20Data.png?raw=true)
+    - Example 1.2 showing the processed file that lost 51 bytes out of 149 bytes of its original bytes, crazy isn't?
